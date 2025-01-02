@@ -1,0 +1,1 @@
+I explored the importance of data cleaning, analysis and visualization as a crucial aspect of data science. I was able to transform raw data into meaningful visual representations. Through practical exercises, I used Excel and PowerBI to craft visuals that support decision-making and effectively communicate data insights. 
