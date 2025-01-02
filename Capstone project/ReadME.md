@@ -1,0 +1,1 @@
+In this project, I acted as a data analyst for a fictitious organization called HealthConnect, a company providing innovative healthcare solutions. I analyzed patient data, discovered trends, and built insightful dashboards to aid management in decision-making. To do this, I applied the full data analysis pipeline: cleaning, processing, visualizing, and presenting the data.
