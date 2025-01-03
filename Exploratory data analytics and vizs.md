@@ -1,4 +1,4 @@
-1. Compare different types of data visualizations (e.g., bar charts, scatter plots, heatmaps) and discuss when to use each type.
+Compare different types of data visualizations (e.g., bar charts, scatter plots, heatmaps) and discuss when to use each type.
 
 1. Bar Charts:
 Purpose: Bar charts are used to compare discrete categories or groups. Each bar represents a category, and the length or height of the bar corresponds to the value or frequency.
